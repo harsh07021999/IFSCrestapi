@@ -1,10 +1,10 @@
 ### IFSCrestapi
 
-##Requirements
+###Requirements
 
 All the reqiurements are in requirements.txt file
 
-##How to run locally :-
+###How to run locally :-
 
 Type these commands in cmd:-
 virtualenv env
@@ -16,7 +16,7 @@ python manage.py runserver
 
 Then follow the instructions in the description given.
 
-##Description
+###Description
 
 This an api created to:-
 
