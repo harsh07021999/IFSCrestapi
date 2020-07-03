@@ -8,10 +8,15 @@ How to run locally :-
 
 Type these commands in cmd:-
 virtualenv env
+
 then activate the environment then
+
 pip install -r requirements.txt
+
 python manage.py makemigration
+
 python manage.py migrate
+
 python manage.py runserver
 
 Then follow the instructions in the description given.
